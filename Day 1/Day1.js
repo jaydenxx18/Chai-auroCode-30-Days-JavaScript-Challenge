@@ -39,18 +39,18 @@ console.log("Type of t is:" ,typeof t);
 console.log('Activity 4 - Reassigning Variables');
 
 let u = 10;
-console.log('Value of u before reassign is '+ u);
+console.log('Value of u before reassign is ', u);
 
 u = "jd's codespace";
-console.log('Value of u after reassign is '+ u);
+console.log('Value of u after reassign is ', u);
 
 console.log('Activity 5 - Understanding Const');
 
 const v = 10;
 
-console.log('Value of v is '+ v);
+console.log('Value of v is ', v);
 
 console.log('Reassigning value to const v');
 
 v = 20; // This will throw an error
-console.log('Value of v after reassign is '+ v);
+console.log('Value of v after reassign is ', v);
